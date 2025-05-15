@@ -1,0 +1,21 @@
+{
+  "name": "programacao",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnaBragagnolo/ProgramacaoTestes-Aulas1-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnaBragagnolo/ProgramacaoTestes-Aulas1-3/issues"
+  },
+  "homepage": "https://github.com/AnaBragagnolo/ProgramacaoTestes-Aulas1-3#readme",
+  "description": ""
+}
